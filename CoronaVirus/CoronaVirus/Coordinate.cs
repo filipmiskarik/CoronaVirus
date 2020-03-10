@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -83,12 +84,12 @@ namespace CoronaVirus
             return 6371 * Math.Acos(
                 Math.Sin(sirka1) * Math.Sin(sirka2) + Math.Cos(sirka1) * Math.Cos(sirka2) * Math.Cos(delka2 - delka1)
                 );
-
         }
 
         public override int GetHashCode()
         {
-            return HashCode.Combine(stupenD, minutaD, sekundaD, stupenS, minutaS, sekundaS);
+            //return HashCode.Combine(stupenD, minutaD, sekundaD, stupenS, minutaS, sekundaS);
+            return Tuple.Create(stupenD, minutaD, sekundaD, stupenS, minutaS, sekundaS).GetHashCode();
         }
 
         public override string ToString()
