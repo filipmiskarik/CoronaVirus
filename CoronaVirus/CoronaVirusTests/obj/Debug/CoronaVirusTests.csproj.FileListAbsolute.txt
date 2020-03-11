@@ -1,0 +1,16 @@
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\CoronaVirusTests.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\CoronaVirusTests.pdb
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\CoronaVirus.exe
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\CoronaVirus.pdb
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\CoronaVirus.exe.config
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\obj\Debug\CoronaVirusTests.csprojAssemblyReference.cache
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\obj\Debug\CoronaVirusTests.csproj.CopyComplete
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\obj\Debug\CoronaVirusTests.dll
+C:\Users\filam\Documents\CoronaVirus\CoronaVirus\CoronaVirusTests\obj\Debug\CoronaVirusTests.pdb
