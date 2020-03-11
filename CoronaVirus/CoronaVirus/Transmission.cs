@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace CoronaVirus
 {
-    public enum Transmission { Local, ImportedOnly, UnderInvestagation }
+    public enum Transmission { Local, ImportedOnly, UnderInvestigation }
 }
