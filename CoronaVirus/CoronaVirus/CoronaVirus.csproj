@@ -81,6 +81,7 @@
   <ItemGroup>
     <Compile Include="Coordinate.cs" />
     <Compile Include="Health.cs" />
+    <Compile Include="Patient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Transmission.cs" />
