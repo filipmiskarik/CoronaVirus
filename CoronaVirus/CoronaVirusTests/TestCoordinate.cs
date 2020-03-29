@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace CoronaVirusTests
 {
     [TestClass]
-    public class UnitTest1
+    public class TestCoordinate
     {
         private Coordinate coordinate;
         [TestInitialize]
@@ -16,7 +16,7 @@ namespace CoronaVirusTests
         [TestMethod]
         public void GetKilometers()
         {
-            Assert.AreEqual(2.03, coordinate.getKilometers(new Coordinate((50, 02, 09.7), (15, 32, 47.8))));
+            Assert.AreEqual(2.87, Math.Round(coordinate.getKilometers(new Coordinate((50, 02, 9.7), (15, 32, 47.8)))), 2);
         }
     }
 }
